@@ -1,4 +1,4 @@
-# Online Course Analytics — Power BI Dashboard
+# Online Course Analytics  Power BI Dashboard
 
 An analysis of an online learning platform's course catalogue, built in Power BI to answer eight business questions about content strategy, learner engagement, and market positioning.
 
